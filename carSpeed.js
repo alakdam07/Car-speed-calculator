@@ -1,3 +1,4 @@
+# Using Pure Javascript
 
 function speedCalculator(speed) {
 const speedLimit= 70;
